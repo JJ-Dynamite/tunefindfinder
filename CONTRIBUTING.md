@@ -1,4 +1,4 @@
-# Contributing to faang-tunefind-finder
+# Contributing to tunefindfinder
 
 Thank you for your interest in contributing!
 

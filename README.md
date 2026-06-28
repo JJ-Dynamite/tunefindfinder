@@ -1,6 +1,6 @@
 # Find songs from any show
 
-[![CI](https://github.com/JJ-Dynamite/faang-tunefind-finder/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/faang-tunefind-finder/actions/workflows/ci.yml)
+[![CI](https://github.com/JJ-Dynamite/tunefindfinder/actions/workflows/ci.yml/badge.svg)](https://github.com/JJ-Dynamite/tunefindfinder/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 > Find songs from any show - Production-ready full-stack application
@@ -25,7 +25,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/JJ-Dynamite/faang-tunefind-finder.git
+git clone https://github.com/JJ-Dynamite/tunefindfinder.git
 cd tunefind-finder
 
 # Install backend dependencies

@@ -1,11 +1,11 @@
 [package]
-name = "faang-tunefind-finder-backend"
+name = "tunefindfinder-backend"
 version = "0.1.0"
 edition = "2021"
 description = "Find songs from any show - Backend API"
 authors = ["JJ-Dynamite"]
 license = "MIT"
-repository = "https://github.com/JJ-Dynamite/faang-tunefind-finder"
+repository = "https://github.com/JJ-Dynamite/tunefindfinder"
 
 [dependencies]
 axum = "0.7"
